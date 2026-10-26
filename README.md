@@ -1,6 +1,6 @@
 # ironlog
 
-A new Flutter project.
+Offline fitness and nutrition tracking application
 
 ## Getting Started
 
